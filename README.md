@@ -1,3 +1,12 @@
+# ABOUT THIS FORK
+
+As you can see, this repo has been archived. The latest version is v2.1.0.
+
+After v2.0.12, lots of dependencies fix have been merged. They have broken many useful functions (preview files, direct link to specific file, .etc).
+This branch (v2.0.12) is the latest stable version which does not contain these fix.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/filebrowser/logo/master/banner.png" width="550"/>
 </p>
